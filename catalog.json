@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "signed": false,
+  "notice": "Builds are not code-signed yet. Verify SHA-256 before running.",
+  "installers": [
+    {
+      "platform": "linux",
+      "version": "1.1.0",
+      "fileName": "PrinterProtector-linux-x86_64.tar.gz",
+      "releaseTag": "v1.1.0",
+      "fileSizeBytes": 17406316,
+      "checksumSha256": "53239f0fbab2f93709a62b26e6e48d1cc4ed404a217ebf4a75899311005e2282",
+      "artifactUrl": "https://github.com/lincolnnunnally/printer-protector-downloads/releases/download/v1.1.0/PrinterProtector-linux-x86_64.tar.gz"
+    }
+  ]
+}
